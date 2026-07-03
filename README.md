@@ -1,5 +1,8 @@
 # 💫 About Me:
-Saya adalah seorang Web Development, Website Builder dan juga Full-Stack Development
+Greetings, I'm FIN
+For me, the monitor is a canvas, whether I'm crafting lines of code or exploring virtual worlds. I believe the creativity and strategic thinking honed through gaming greatly assist me in designing effective software solutions. I'm constantly seeking new challenges, both in the repository and on the leaderboard.
+
+*Fun Fact:* I'm a fan of the Yo-Kai Watch. My Favorite Yo-kai is Bushinyan, Jibanyan and Komasan
 
 
 ## 🌐 Socials:
